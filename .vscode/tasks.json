@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/MiniWeb.csproj"
+                "${workspaceFolder}/content/MiniWeb.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
