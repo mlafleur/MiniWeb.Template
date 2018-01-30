@@ -12,15 +12,9 @@ _Warning: At the moment the item more minimal than the template is this "Read Me
 - `Program.cs` - Entry point for the web app
 - `Startup.cs` - Handles startup tasks, app configuration, and service configuration
 
-## Building the Template
+## Building & Installing the Template
 
-Executing `build.cmd` will produce the NuGet package containing the template `dotnet.miniweb.template.1.0.0.nupkg`. 
-
-## Installing the Template
-
-```ps
-dotnet new --install "{path to dotnet.miniweb.template.1.0.0.nupkg}"
-```
+Executing `Install.cmd` script will produce a NuGet package containing the template and install it locally
 
 ## Using the Template
 
